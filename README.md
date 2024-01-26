@@ -8,6 +8,8 @@
 
 - 🌱 I’m currently learning **Android development and Mobile Development in Advance**
 
+- I’m currently working as Mobile Programmer
+
 - 💬 Ask me about **Kotlin, Dart, Android, Flutter**
 
 - 📫 How to reach me **m.ilhamhakim@gmail.com**
